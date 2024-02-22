@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Diamond-Price-Prediction
+Version: 0.0.1
+Author: Shantanu
+Author-email: shantanu@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
